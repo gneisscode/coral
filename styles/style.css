@@ -1,0 +1,11 @@
+body {
+  font-family: system-ui;
+  background: #005757;
+  color: white;
+  text-align: center;
+}
+
+ul{
+  text-align: center;
+  list-style: inside;
+}
